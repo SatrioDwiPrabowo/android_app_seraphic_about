@@ -2,6 +2,7 @@
 //Authors : Kelvin Valencio
 //twitter : http://twitter.com/kelvin_valencio
 //facebook : http://facebook.com/kelvin.valencio.7
+//Lead Developers : SatrioDwiPrabowo @ Seraphic Development
 package com.kelvinvalencio.About;
 
 import java.util.List;
