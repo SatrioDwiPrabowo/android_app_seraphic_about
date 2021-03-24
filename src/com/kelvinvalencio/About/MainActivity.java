@@ -1,5 +1,5 @@
 //this is my source code for About Seraphic ROM apps
-//Authors : Kelvin Valencio
+//Authors : Kelvin Valencio & Satrio Dwi Prabowo
 //twitter : http://twitter.com/kelvin_valencio
 //facebook : http://facebook.com/kelvin.valencio.7
 //Lead Developers : SatrioDwiPrabowo @ Seraphic Development
